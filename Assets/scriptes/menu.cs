@@ -14,4 +14,14 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("Menu");
     }
+
+    public void sim()
+    {
+        SceneManager.LoadScene("sim");
+    }
+
+    public void nao()
+    {
+        SceneManager.LoadScene("nao");
+    }
 }

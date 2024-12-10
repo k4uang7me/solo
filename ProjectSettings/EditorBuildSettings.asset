@@ -20,6 +20,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/escuro.unity
     guid: b397d2af5a5c87b408c934d88e54da94
+  - enabled: 1
+    path: Assets/Scenes/vitoria2.unity
+    guid: 661882af032c1dc4b8c01c10174a2fc5
+  - enabled: 1
+    path: Assets/Scenes/vitoria3.unity
+    guid: f7e98498511e6104fa97f3bd5f816930
+  - enabled: 1
+    path: Assets/Scenes/nao.unity
+    guid: 3b49ab0c38d38704d84528948c4ed133
+  - enabled: 1
+    path: Assets/Scenes/sim.unity
+    guid: baa266f26297f6f459e598b028162643
+  - enabled: 1
+    path: Assets/Scenes/telapreta1.unity
+    guid: f56cd1d1a48a3804a8aa8a9fa17f7f9e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
