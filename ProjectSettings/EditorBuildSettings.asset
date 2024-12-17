@@ -35,6 +35,33 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/telapreta1.unity
     guid: f56cd1d1a48a3804a8aa8a9fa17f7f9e
+  - enabled: 1
+    path: Assets/Scenes/Buraco.unity
+    guid: d4487e054ca22c44b92ee46e63c88ada
+  - enabled: 1
+    path: Assets/Scenes/Abismo.unity
+    guid: dcbf66b441ef8ed4fbc52b83661d9dcb
+  - enabled: 1
+    path: Assets/Scenes/TelaMorte2.unity
+    guid: c64582e4ac5c5c84f9755c81003bc5a5
+  - enabled: 1
+    path: Assets/Scenes/escuro2.unity
+    guid: 092fe1b83581a2c4aa39b2e488175ed2
+  - enabled: 1
+    path: Assets/Scenes/fala2.unity
+    guid: 5489a8c6dcc2eda42a239ff077c06543
+  - enabled: 1
+    path: Assets/Scenes/nao2.unity
+    guid: a5e3e65dfeab45941b807689450e0dbb
+  - enabled: 1
+    path: Assets/Scenes/fala3.unity
+    guid: 69b2c93d4b5e12c49abe8749e7951453
+  - enabled: 1
+    path: Assets/Scenes/sim2.unity
+    guid: 1acd2af0bb10b4a49bbe53ec7de4a6ea
+  - enabled: 1
+    path: Assets/Scenes/TelaPreta2.unity
+    guid: 53d992e5cb70a7b48a476a8c0d2cf1c3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

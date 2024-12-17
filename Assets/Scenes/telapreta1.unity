@@ -612,7 +612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3130b8af538aa0c4fba886b76a8ac9a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: menu
+  sceneToLoad: Buraco
 --- !u!4 &1131591078
 Transform:
   m_ObjectHideFlags: 0

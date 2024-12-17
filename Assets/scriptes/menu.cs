@@ -24,4 +24,19 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("nao");
     }
+
+    public void sim2()
+    {
+        SceneManager.LoadScene("sim2");
+    }
+
+    public void nao2()
+    {
+        SceneManager.LoadScene("nao2");
+    }
+
+    public void VoltarFase2()
+    {
+        SceneManager.LoadScene("Abismo");
+    }
 }
